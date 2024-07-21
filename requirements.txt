@@ -1,5 +1,5 @@
 PyQt5==5.15.2
-Pillow==8.1.0
+Pillow==10.3.0
 PyAutoGUI==0.9.52
 pytest-shutil==1.7.0
 pynput==1.7.2
